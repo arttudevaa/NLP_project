@@ -1,0 +1,13 @@
+help
+cheerfulness
+vacation
+attractive
+optimism
+superhero
+healing
+heroic
+celebration
+love
+sympathy
+politeness
+positive_emotion
